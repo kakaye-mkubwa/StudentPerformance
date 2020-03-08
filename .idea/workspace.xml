@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66408160-3040-4a29-8081-46ca64f0d5c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1YINBwaUBxWmepzxKmtEPWGf2RB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Utils" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66408160-3040-4a29-8081-46ca64f0d5c0" name="Default Changelist" comment="" />
+      <created>1582626016287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582626016287</updated>
+      <workItem from="1582626018224" duration="3420000" />
+      <workItem from="1582659740176" duration="31959000" />
+      <workItem from="1582778055757" duration="3209000" />
+      <workItem from="1582807087169" duration="9613000" />
+      <workItem from="1582955695955" duration="666000" />
+      <workItem from="1582959456187" duration="687000" />
+      <workItem from="1583000388472" duration="18496000" />
+      <workItem from="1583110724489" duration="25877000" />
+      <workItem from="1583658385808" duration="1365000" />
+      <workItem from="1583660250130" duration="1095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="315" width="523" height="171" key="ComposerInitDialogKey" timestamp="1582664541039">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="421" y="315" width="523" height="171" key="ComposerInitDialogKey/0.31.1366.737@0.31.1366.737" timestamp="1582664541039" />
+    <state x="466" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583659981116">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="157" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1583659981116" />
+    <state x="479" y="322" width="407" height="158" key="NewPhpFileDialog" timestamp="1583142687395">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="479" y="322" width="407" height="158" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1583142687395" />
+    <state x="479" y="324" width="407" height="154" key="NewPhpFileDialog/0.31.1366.737@0.31.1366.737" timestamp="1582780492798" />
+    <state x="172" y="35" width="1022" height="733" key="SettingsEditor" timestamp="1582689444949">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="172" y="35" width="1022" height="733" key="SettingsEditor/0.31.1366.737@0.31.1366.737" timestamp="1582689444949" />
+    <state x="343" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583659216615">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="343" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1583659216615" />
+    <state x="343" y="227" key="com.intellij.ide.util.TipDialog/0.31.1366.737@0.31.1366.737" timestamp="1582807087798" />
+    <state x="331" y="106" width="857" height="656" key="find.popup" timestamp="1583142270334">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="331" y="106" width="857" height="656" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1583142270334" />
+    <state x="408" y="312" width="540" height="182" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583659238916">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="408" y="312" width="540" height="182" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1583659238916" />
+  </component>
+</project>

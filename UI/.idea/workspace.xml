@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bbb59db-eebd-41a2-8542-43644507122c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug-report-for-adminlte-v2-4-x.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug-report-for-adminlte-v3-x.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature-request-for-adminlte-v3-x.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/foot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/adminlte.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/adminlte.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/adminlte.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/adminlte.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.components.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.components.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.components.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.components.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.core.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.core.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.core.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.core.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.extra-components.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.extra-components.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.extra-components.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.extra-components.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.pages.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.pages.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.pages.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.pages.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.plugins.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.plugins.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.plugins.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/alt/adminlte.plugins.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/docs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/highlighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/AdminLTELogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/logo-xl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/logo-xs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/user1-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/user3-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/user4-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/user5-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/user6-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/user7-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/user8-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/adminlte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/adminlte.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/adminlte.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/adminlte.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/pages/dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/pages/dashboard2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/pages/dashboard3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/svg-with-js.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/css/v4-shims.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/jquery/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/jquery/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/jquery/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/overlayScrollbars/css/OverlayScrollbars.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/overlayScrollbars/css/OverlayScrollbars.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/overlayScrollbars/js/OverlayScrollbars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/overlayScrollbars/js/OverlayScrollbars.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/esm/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/esm/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/esm/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/esm/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/esm/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/esm/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/esm/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/esm/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/umd/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/umd/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/umd/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/umd/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/umd/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/umd/popper.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/umd/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/umd/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/umd/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/plugins/popper/umd/poppper.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/browser-support.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/boxes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/cards.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/control-sidebar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/direct-chat.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/main-header.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/main-sidebar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/miscellaneous.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/plugins.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/ribbons.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/timeline.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dependencies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/implementations.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/card-refresh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/card-widget.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/control-sidebar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/direct-chat.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/layout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/push-menu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/toasts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/todo-list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/treeview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/layout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/upgrade-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/UI/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/UI/general.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/UI/icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/UI/modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/UI/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/UI/ribbons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/UI/sliders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/UI/timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/charts/chartjs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/charts/flot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/charts/inline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/blank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/e-commerce.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/forgot-password.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/invoice-print.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/invoice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/language-menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/legacy-user-menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/lockscreen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/pace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/project-add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/project-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/project-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/recover-password.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/examples/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/forms/advanced.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/forms/editors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/forms/general.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/forms/validation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/layout/boxed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/layout/collapsed-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/layout/fixed-footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/layout/fixed-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/layout/fixed-topnav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/layout/top-nav-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/layout/top-nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mailbox/compose.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mailbox/mailbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mailbox/read-mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tables/data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tables/jsgrid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tables/simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YUuwamCo6oHpRPJanlVn2FkzEg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdminLTE" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bbb59db-eebd-41a2-8542-43644507122c" name="Default Changelist" comment="" />
+      <created>1583009733842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583009733842</updated>
+      <workItem from="1583009741354" duration="21188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583048786925">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="157" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1583048786925" />
+    <state x="0" y="27" width="703" height="741" key="find.popup" timestamp="1583048772972">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="703" height="741" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1583048772972" />
+  </component>
+</project>
